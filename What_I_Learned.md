@@ -35,6 +35,8 @@ DisplayName User Host      Address
 
 ## Conclusion
 
-There is still a lot for me to learn here, but what I have learned is quite helpful and I am much more comfortable in Powershell. Instead of pulling up wsl as my terminal, I plan to start doing Powershell instead. It is just objectively better, especially considering you can use wsl commands inside Powershell. I'm very glad I did this module, and I hope to keep being able to play with and explore powershell.
+There is still a lot for me to learn here, but what I have learned is quite helpful and I am much more comfortable in Powershell. Instead of pulling up wsl as my terminal, I plan to start doing Powershell instead. It is just objectively better, especially considering you can use wsl commands inside Powershell. 
+
+I know this file is kind of short, but its just a summary of some of my favorite things. Below is a 6 page Google doc with all my notes. Theres a lot more I have to learn, but this sprint has gotten me very interested in Powershell, and I'm very glad I did this module, and I hope to keep being able to play with and explore powershell.
 
 [This is a 6 page Google doc with my notes of things I learned](https://docs.google.com/document/d/1QQhAKFnuxuoeCC_4SqJYuGftL6Ikr1mbSt_hem07bbM/edit?usp=sharing)
